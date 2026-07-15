@@ -1,0 +1,17 @@
+# Arduino
+
+build/
+builds/
+
+# VS Code
+.vscode/
+
+# Arduino IDE cache
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
