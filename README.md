@@ -97,6 +97,11 @@ Le comportement **latch** est un choix de sécurité volontaire : après une sur
   <br><em>PZEM-004T, relais, ESP32, LCD I2C et charges de test (ampoules)</em>
 </div>
 
+## 🎬 Vidéo de démonstration
+
+- [Démo du système — mesures et protection](https://www.youtube.com/watch?v=V08jR8NwoZY)
+- [Réception d'alerte Telegram en conditions réelles](https://www.youtube.com/watch?v=7me2C1YD9-0)
+
 ## 🔧 Matériel
 
 | Composant | Rôle |
